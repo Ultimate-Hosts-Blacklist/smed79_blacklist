@@ -384,6 +384,11 @@
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
+    "formaticul.com": {
+        "epoch": 1594857600,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
     "fqqtlkuklrd.com": {
         "epoch": 1582070400,
         "expiration_date": "19-feb-2020",
@@ -638,6 +643,11 @@
         "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
         "state": "past"
+    },
+    "myqvhpjyd.com": {
+        "epoch": 1567382400,
+        "expiration_date": "02-sep-2019",
+        "state": "future"
     },
     "nbriskerry.com": {
         "epoch": 1572480000,
@@ -1039,6 +1049,11 @@
         "expiration_date": "30-nov-2019",
         "state": "future"
     },
+    "whirlwealth.com": {
+        "epoch": 1580947200,
+        "expiration_date": "06-feb-2020",
+        "state": "future"
+    },
     "wjmckfsdcxpj.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
@@ -1047,6 +1062,11 @@
     "worriednumber.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "xfwwyoxut.com": {
+        "epoch": 1583193600,
+        "expiration_date": "03-mar-2020",
         "state": "future"
     },
     "xnnbvckd.com": {
