@@ -1,10 +1,20 @@
-# About [repository-name]
+# About smed79_blacklist
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/smed79_blacklist.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/smed79_blacklist)
 
 
 ```
-[description]
+
+# [INFO] --------------------------------------------------------------------- #
+# smed79 BlackList
+# BlackList of domains hosting advertisements & other nasty purposes.
+#
+# Homepage: https://github.com/smed79/blacklist
+# Licence: (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
+#
+# In order to use this list, please use the following address:
+# https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
+#
 ```
 
 --------------------------------------------------------------------------------
