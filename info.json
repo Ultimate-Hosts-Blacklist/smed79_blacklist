@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 13,
-        "counter": {
-            "down": 8412,
-            "invalid": 0,
-            "tested": 14216,
-            "up": 5804
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sat Dec 28 11:41:00 2019",
-    "end_epoch": 1577533260.498031,
+    "end_datetime": "Sun Dec 29 22:49:12 2019",
+    "end_epoch": 1577659752.173537,
     "last_autosave_datetime": "Sun Dec 29 21:59:43 2019",
     "last_autosave_epoch": 1577656783.320397,
     "name": "smed79_blacklist",
     "previous_stats": {
         "builds": 14,
-        "clean.list": 5956,
+        "clean.list": 5963,
         "counter": {
-            "down": 9093,
+            "down": 9087,
             "invalid": 0,
-            "tested": 15049,
-            "up": 5956
+            "tested": 15050,
+            "up": 5963
         },
-        "domains.list": 15049,
-        "volatile.list": 5956,
-        "whitelisted.list": 5956
+        "domains.list": 15050,
+        "volatile.list": 5963,
+        "whitelisted.list": 5963
     },
     "raw_link": "https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt",
     "start_datetime": "Sun Dec 29 11:03:58 2019",
