@@ -1,10 +1,19 @@
 {
-    "currently_under_test": "0",
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 660,
+            "invalid": 0,
+            "tested": 1209,
+            "up": 549
+        }
+    },
+    "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Mon Jan 13 12:56:10 2020",
     "end_epoch": 1578920170.219705,
-    "last_autosave_datetime": "Mon Jan 13 12:13:11 2020",
-    "last_autosave_epoch": 1578917591.845451,
+    "last_autosave_datetime": "Tue Jan 14 23:36:59 2020",
+    "last_autosave_epoch": 1579045019.906913,
     "name": "smed79_blacklist",
     "previous_stats": {
         "builds": 17,
@@ -20,6 +29,6 @@
         "whitelisted.list": 5922
     },
     "raw_link": "https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt",
-    "start_datetime": "Sun Jan 12 23:31:12 2020",
-    "start_epoch": 1578871872.673091
+    "start_datetime": "Tue Jan 14 23:26:59 2020",
+    "start_epoch": 1579044419.071725
 }
