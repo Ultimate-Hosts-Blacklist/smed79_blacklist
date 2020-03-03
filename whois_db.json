@@ -1879,6 +1879,11 @@
         "expiration_date": "09-may-2020",
         "state": "future"
     },
+    "btez8.xyz": {
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
     "btvhdscr.com": {
         "epoch": 1612224000.0,
         "expiration_date": "02-feb-2021",
@@ -4024,6 +4029,11 @@
         "expiration_date": "12-jul-2020",
         "state": "future"
     },
+    "h78xb.pw": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
     "h8bjfdcu.com": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
@@ -4672,6 +4682,11 @@
     "jwt8e5vzc1.com": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "k54nw.pw": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
         "state": "future"
     },
     "k5rlzvkzwy.com": {
@@ -6002,6 +6017,11 @@
     "perpetualpail.com": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
+    "perren.xyz": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
         "state": "future"
     },
     "personaleme.pro": {
