@@ -6122,12 +6122,12 @@
     "newdecads.com": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "newfebads.com": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "newfriads.com": {
         "epoch": 1614902400.0,
@@ -6137,7 +6137,7 @@
     "newjanads.com": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "newjulads.com": {
         "epoch": 1614902400.0,
@@ -6157,7 +6157,7 @@
     "newmonads.com": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "newnovads.com": {
         "epoch": 1614902400.0,
