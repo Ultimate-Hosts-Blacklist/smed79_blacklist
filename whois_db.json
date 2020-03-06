@@ -5307,12 +5307,12 @@
     "la-la-moon.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "la-la-sf.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "lacendhers.info": {
         "epoch": 1611187200.0,
@@ -5467,7 +5467,7 @@
     "lmn-pou-win.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "lnkrdr.com": {
         "epoch": 1618012800.0,
@@ -6622,7 +6622,7 @@
     "otnolatrnup.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "ouloutso.net": {
         "epoch": 1604188800.0,
