@@ -525,8 +525,8 @@
         "state": "future"
     },
     "4th3d48.com": {
-        "epoch": 1583712000.0,
-        "expiration_date": "09-mar-2020",
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
         "state": "future"
     },
     "4ukqzi8d7l.com": {
@@ -2137,7 +2137,7 @@
     "bxnvdau.com": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bxxhbrpxqtwfq.com": {
         "epoch": 1591315200.0,
@@ -4097,7 +4097,7 @@
     "g1hmcmp.com": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "g1xgeb82nj.com": {
         "epoch": 1576281600.0,
@@ -7952,7 +7952,7 @@
     "sf2ej57.com": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "sfmnafrufk.com": {
         "epoch": 1593302400.0,
