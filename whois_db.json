@@ -5442,7 +5442,7 @@
     "listeman.info": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "livelumber.com": {
         "epoch": 1614384000.0,
@@ -10022,7 +10022,7 @@
     "zeliteral.info": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "zelllwrite.com": {
         "epoch": 1613865600.0,
