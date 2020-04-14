@@ -605,8 +605,8 @@
         "state": "future"
     },
     "5mcwl.pw": {
-        "epoch": 1586822400.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "5nt1gx7o57.com": {
@@ -8785,8 +8785,8 @@
         "state": "future"
     },
     "terraclicks.com": {
-        "epoch": 1586822400.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "terriblethumb.com": {
@@ -9122,7 +9122,7 @@
     "typicalled.info": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "typicalteeth.com": {
         "epoch": 1597622400.0,
