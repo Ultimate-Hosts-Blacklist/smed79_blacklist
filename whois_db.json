@@ -2424,6 +2424,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "ad1data.com": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
     "ad1rtb.com": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
@@ -5459,6 +5464,11 @@
         "expiration_date": "26-apr-2021",
         "state": "future"
     },
+    "discovernative.com": {
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
     "discreetfield.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
@@ -7057,6 +7067,11 @@
     "fqanilbgne.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "fqcqmjdn.com": {
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "fqpfvqpptch.com": {
