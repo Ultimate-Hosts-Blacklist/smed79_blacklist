@@ -2304,6 +2304,11 @@
         "expiration_date": "15-nov-2020",
         "state": "future"
     },
+    "aazwugtom.com": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
     "ab8ce655c175b0d.com": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
@@ -4895,9 +4900,9 @@
         "state": "future"
     },
     "cubiboak.com": {
-        "epoch": 1581984000.0,
-        "expiration_date": "18-feb-2020",
-        "state": "past"
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
     },
     "cudjntck.com": {
         "epoch": 1593302400.0,
