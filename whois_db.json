@@ -8422,7 +8422,7 @@
     "htamaster.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "htgpsnbtha.com": {
         "epoch": 1594771200.0,
@@ -17357,7 +17357,7 @@
     "whardaih.net": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "whatseet.net": {
         "epoch": 1603584000.0,
