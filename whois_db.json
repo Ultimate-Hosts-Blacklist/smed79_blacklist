@@ -122,7 +122,7 @@
     "0d847862199.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "0dbcf515975d.com": {
         "epoch": 1599868800.0,
@@ -217,7 +217,7 @@
     "13190546cd1dec9bbdc.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "14119276be0852.com": {
         "epoch": 1589241600.0,
@@ -892,7 +892,7 @@
     "442c8891ec726f339.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "4465ef53c8ffded.com": {
         "epoch": 1590105600.0,
@@ -1267,7 +1267,7 @@
     "6200a50af8e3.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "620c663bca9a4.com": {
         "epoch": 1595721600.0,
@@ -1502,12 +1502,12 @@
     "70fd25cf5a7b1c57.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "71a30cae934e.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "71bcab8994dbe2.com": {
         "epoch": 1592870400.0,
@@ -1957,7 +1957,7 @@
     "9053fe03868ab.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "91aa46b949d20.com": {
         "epoch": 1590883200.0,
@@ -11847,7 +11847,7 @@
     "noapsuza.net": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "noiselessplough.com": {
         "epoch": 1597622400.0,
