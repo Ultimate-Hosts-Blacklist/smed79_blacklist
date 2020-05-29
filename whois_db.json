@@ -3062,7 +3062,7 @@
     "awfull.pro": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "awsatstb.com": {
         "epoch": 1608249600.0,
@@ -8145,9 +8145,9 @@
         "state": "future"
     },
     "herowebads.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
-        "state": "past"
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
     },
     "hf18yg8q.com": {
         "epoch": 1617321600.0,
