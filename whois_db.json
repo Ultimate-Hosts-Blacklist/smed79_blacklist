@@ -199,6 +199,11 @@
         "expiration_date": "22-may-2021",
         "state": "future"
     },
+    "11f976743800.com": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
+    },
     "1221e236c3f8703.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
@@ -2702,7 +2707,7 @@
     "akhlkkdrxwav.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "akwajlcoap.com": {
         "epoch": 1594252800.0,
@@ -4327,7 +4332,7 @@
     "cgjbizumzm.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "cglcdshkqiuic.com": {
         "epoch": 1594339200.0,
@@ -5882,7 +5887,7 @@
     "dwp3ce9c.top": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "dxiixnrumvni.com": {
         "epoch": 1622246400.0,
@@ -6842,7 +6847,7 @@
     "fcwpxsmiyy.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "fd2e64b4c2e729.com": {
         "epoch": 1621641600.0,
@@ -7467,7 +7472,7 @@
     "getadmiral.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "getzwnrgsrz.com": {
         "epoch": 1595462400.0,
@@ -13442,7 +13447,7 @@
     "qagnufdwht.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "qaizylhmcxv.com": {
         "epoch": 1595894400.0,
@@ -16267,7 +16272,7 @@
     "tyllfqbmny.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "typicalled.info": {
         "epoch": 1618358400.0,
