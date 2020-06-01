@@ -2597,7 +2597,7 @@
     "agvinhvex.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "ah8asl94hs.com": {
         "epoch": 1576281600.0,
@@ -3402,6 +3402,11 @@
     "beastbeef.com": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
+    "beershavartb.com": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "behybmunweid.com": {
@@ -13647,7 +13652,7 @@
     "quhlryzpyyion.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "quicksandear.com": {
         "epoch": 1611273600.0,
