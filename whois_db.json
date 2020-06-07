@@ -4507,7 +4507,7 @@
     "cjvpybdsasarc.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "ckk69drbro.com": {
         "epoch": 1605139200.0,
@@ -10952,7 +10952,7 @@
     "mobileoffers-bv-download.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "mobileoffers-bw-download.com": {
         "epoch": 1591488000.0,
@@ -10965,8 +10965,8 @@
         "state": "future"
     },
     "mobileoffers-by-download.com": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "mobileoffers-bz-download.com": {
@@ -11002,7 +11002,7 @@
     "mobileoffers-ce-download.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "mobileoffers-cf-download.com": {
         "epoch": 1606435200.0,
@@ -13320,8 +13320,8 @@
         "state": "future"
     },
     "pushwhy.com": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "pushzolo.com": {
