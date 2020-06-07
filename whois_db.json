@@ -10957,7 +10957,7 @@
     "mobileoffers-bw-download.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "mobileoffers-bx-download.com": {
         "epoch": 1591488000.0,
@@ -16002,7 +16002,7 @@
     "tnxiuvjtplhhdy.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "toarqsglo.com": {
         "epoch": 1595203200.0,
