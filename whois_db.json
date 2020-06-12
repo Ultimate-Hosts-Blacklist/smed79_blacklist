@@ -4517,7 +4517,7 @@
     "ckkrlzxvy.com": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "cklad.xyz": {
         "epoch": 1598313600.0,
@@ -5187,7 +5187,7 @@
     "dajlkvplxyzbsa.com": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "dalita.org": {
         "epoch": 1668902400.0,
