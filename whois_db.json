@@ -8255,8 +8255,8 @@
         "state": "future"
     },
     "hilltopads.net": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "himanyo.com": {
@@ -11957,7 +11957,7 @@
     "nqmwfddfwogbhw.com": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "nqxdnmsp.com": {
         "epoch": 1594252800.0,
