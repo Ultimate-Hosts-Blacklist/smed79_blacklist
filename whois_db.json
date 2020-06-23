@@ -70,8 +70,8 @@
         "state": "future"
     },
     "06f09b1008ae993a5a.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "07346e971b1ec7f.com": {
@@ -92,7 +92,7 @@
     "0926a687679d337e9d.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "0956228a2df97a.com": {
         "epoch": 1620691200.0,
@@ -240,8 +240,8 @@
         "state": "future"
     },
     "153105c2f9564.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "1543b1db8a0825760.com": {
@@ -722,7 +722,7 @@
     "3a8c9b0ca405b5.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "3ac901bf5793b0fccff.com": {
         "epoch": 1592870400.0,
@@ -1255,8 +1255,8 @@
         "state": "future"
     },
     "6068a17eed25.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "615b68cc9c8528e.com": {
@@ -1320,8 +1320,8 @@
         "state": "future"
     },
     "651b4ee436b8cdae.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "6548579f50dc08be9.com": {
@@ -1520,8 +1520,8 @@
         "state": "future"
     },
     "71bcab8994dbe2.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "71d7511a4861068.com": {
@@ -1550,8 +1550,8 @@
         "state": "future"
     },
     "739c49a8c68917.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "73c6c063b238097.com": {
@@ -1872,7 +1872,7 @@
     "8761f9f83613.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "87ac592346b5a.com": {
         "epoch": 1622419200.0,
@@ -2160,8 +2160,8 @@
         "state": "future"
     },
     "a15256378569ec595.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "a157ad075fcb34c.com": {
@@ -2175,8 +2175,8 @@
         "state": "future"
     },
     "a1b1ea8f418ca02ad4e.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "a1d62657ec88.com": {
@@ -3127,7 +3127,7 @@
     "b014381c95cb.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "b07f916388fc6e06847.com": {
         "epoch": 1601683200.0,
@@ -3155,8 +3155,8 @@
         "state": "future"
     },
     "b1f6fe5e3f0c3c8ba6.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "b1fb813dc806b7d.com": {
@@ -5162,7 +5162,7 @@
     "da6fda11b2b0ba.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "daecan.xyz": {
         "epoch": 1619308800.0,
@@ -6202,7 +6202,7 @@
     "efd3b86a5fbddda.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "efficaciouscactus.com": {
         "epoch": 1614384000.0,
@@ -6627,7 +6627,7 @@
     "f18a35cc33ee29a.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "f26f3cbe225289a0947.com": {
         "epoch": 1600041600.0,
@@ -6650,8 +6650,8 @@
         "state": "future"
     },
     "f45ff72fec5426ae.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "f47cecd3f0a29874f.com": {
@@ -6692,7 +6692,7 @@
     "f8260adbf8558d6.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "f8316b45436f.com": {
         "epoch": 1621641600.0,
@@ -16992,6 +16992,11 @@
     "vjqshoyjxwk.com": {
         "epoch": 1623715200.0,
         "expiration_date": "15-jun-2021",
+        "state": "future"
+    },
+    "vjwmtavlnvjdu.bid": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "vkbftstazhjgdx.com": {
