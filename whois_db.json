@@ -4592,7 +4592,7 @@
     "cnutjhszkjse.com": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "coachquartz.com": {
         "epoch": 1598227200.0,
@@ -4910,9 +4910,9 @@
         "state": "future"
     },
     "ctpjfacao.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
-        "state": "past"
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "state": "future"
     },
     "cubchannel.com": {
         "epoch": 1602115200.0,
@@ -13610,9 +13610,9 @@
         "state": "future"
     },
     "qpshvivbqpz.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
-        "state": "past"
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "state": "future"
     },
     "qqablora.com": {
         "epoch": 1594166400.0,
@@ -16395,9 +16395,9 @@
         "state": "future"
     },
     "udvxwimgqr.com": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
-        "state": "past"
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "state": "future"
     },
     "uel-uel-fie.com": {
         "epoch": 1611532800.0,
