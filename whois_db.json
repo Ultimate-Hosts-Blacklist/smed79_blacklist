@@ -3537,7 +3537,7 @@
     "bip-bip-blip.com": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bipwrite.com": {
         "epoch": 1593734400.0,
@@ -17777,7 +17777,7 @@
     "xcbteuhokmcj.com": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "xcqgkkccjjucf.com": {
         "epoch": 1623456000.0,
