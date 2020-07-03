@@ -3837,7 +3837,7 @@
     "bsqbdbtftyu.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "btez8.xyz": {
         "epoch": 1595808000.0,
@@ -7982,7 +7982,7 @@
     "gwohimtyhbthg.com": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "gwudu.com": {
         "epoch": 1612137600.0,
