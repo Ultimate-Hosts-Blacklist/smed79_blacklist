@@ -5575,9 +5575,9 @@
         "state": "future"
     },
     "dkroonzvxvansw.com": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
-        "state": "past"
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "state": "future"
     },
     "dksvmumbi.com": {
         "epoch": 1623715200.0,
@@ -13587,7 +13587,7 @@
     "qmxpttxjv.com": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "qnageoh3ns.com": {
         "epoch": 1623110400.0,
