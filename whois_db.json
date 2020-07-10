@@ -4157,7 +4157,7 @@
     "cashcawrite.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "categy.co": {
         "epoch": 1614470400.0,
@@ -9635,9 +9635,9 @@
         "state": "future"
     },
     "kfqronzxcrdt.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
-        "state": "past"
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "kfritiigmqk.com": {
         "epoch": 1624147200.0,
@@ -10010,9 +10010,9 @@
         "state": "future"
     },
     "lebqrivt.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
-        "state": "past"
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "leechiza.net": {
         "epoch": 1610236800.0,
