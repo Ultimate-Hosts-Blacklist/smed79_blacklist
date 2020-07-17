@@ -13542,7 +13542,7 @@
     "qgwazwmlx.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "qhpjexftk.com": {
         "epoch": 1623801600.0,
@@ -15500,9 +15500,9 @@
         "state": "future"
     },
     "swtubbksgvg.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
-        "state": "past"
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "state": "future"
     },
     "swxrxdej.com": {
         "epoch": 1624233600.0,
