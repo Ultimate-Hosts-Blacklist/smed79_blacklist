@@ -1717,7 +1717,7 @@
     "7ead97755e7c3b8.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "7ec977edb33b9dc.com": {
         "epoch": 1622419200.0,
@@ -8420,8 +8420,8 @@
         "state": "future"
     },
     "hothta.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "hox0u3ea48.com": {
@@ -9432,7 +9432,7 @@
     "jroxkqhin.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "jrunvrfma.com": {
         "epoch": 1625788800.0,
@@ -16752,7 +16752,7 @@
     "uxzbsinjyld.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "uydeapvmmlvdp.com": {
         "epoch": 1627344000.0,
