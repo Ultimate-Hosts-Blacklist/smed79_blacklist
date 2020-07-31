@@ -2512,7 +2512,7 @@
     "ae3482c74b1a99f.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "aebhdrkiybgy.com": {
         "epoch": 1625443200.0,
@@ -11432,7 +11432,7 @@
     "mvdbdtwicgw.bid": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "mvnuyjsdgle.com": {
         "epoch": 1627430400.0,
