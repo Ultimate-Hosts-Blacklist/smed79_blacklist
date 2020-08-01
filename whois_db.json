@@ -7194,6 +7194,11 @@
         "expiration_date": "14-mar-2021",
         "state": "future"
     },
+    "fridric.com": {
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
+        "state": "future"
+    },
     "frightenedpotato.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
