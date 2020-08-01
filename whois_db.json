@@ -2322,7 +2322,7 @@
     "aazwugtom.com": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ab8ce655c175b0d.com": {
         "epoch": 1620777600.0,
@@ -7452,7 +7452,7 @@
     "garowrite.com": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "gcontentdelivery.info": {
         "epoch": 1626480000.0,
