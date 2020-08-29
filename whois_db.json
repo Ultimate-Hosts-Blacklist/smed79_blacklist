@@ -1167,7 +1167,7 @@
     "5bir9vuqcq.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "5d02977f6511aa.com": {
         "epoch": 1601683200.0,
@@ -4817,7 +4817,7 @@
     "cp9t71b6ip.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cpm20.com": {
         "epoch": 1626825600.0,
