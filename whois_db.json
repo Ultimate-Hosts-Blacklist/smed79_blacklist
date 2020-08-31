@@ -2292,7 +2292,7 @@
     "a940db0846408b2.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "a9d7c19f0282.com": {
         "epoch": 1624579200.0,
@@ -5017,7 +5017,7 @@
     "cwkhyupiwzcjy.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cwnrunnvatbfug.com": {
         "epoch": 1627344000.0,
