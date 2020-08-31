@@ -7042,7 +7042,7 @@
     "flipy6sudy.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "flirrfbpb.com": {
         "epoch": 1624233600.0,
@@ -7815,8 +7815,8 @@
         "state": "future"
     },
     "grafzen.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
         "state": "future"
     },
     "grandioseguide.com": {
@@ -8412,7 +8412,7 @@
     "hoortols.org": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hortestoz.com": {
         "epoch": 1600473600.0,
