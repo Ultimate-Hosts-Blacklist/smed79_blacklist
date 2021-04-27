@@ -2418,7 +2418,6 @@
         "massa-carrara.it",
         "massacarrara.it",
         "matera.it",
-        "mb.it",
         "mc.it",
         "me.it",
         "medio-campidano.it",
@@ -3470,6 +3469,7 @@
         "matsuura.nagasaki.jp",
         "matsuyama.ehime.jp",
         "matsuzaki.shizuoka.jp",
+        "mb.it",
         "meguro.tokyo.jp",
         "meiwa.gunma.jp",
         "meiwa.mie.jp",
@@ -7702,7 +7702,8 @@
         "store.st"
     ],
     "store": [
-        "shopware.store"
+        "shopware.store",
+        "storebase.store"
     ],
     "su": [
         "abkhazia.su",
