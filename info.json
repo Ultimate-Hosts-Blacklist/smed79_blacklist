@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2021-07-01T23:13:14.652866",
-    "end_epoch": 1625181194.652866,
+    "end_datetime": "2021-07-02T04:19:41.883944",
+    "end_epoch": 1625199581.883944,
     "name": "smed79_blacklist",
     "previous_end_datetime": "2021-07-01T23:13:14.652866",
     "previous_end_epoch": 1625181194.652866,
