@@ -490,7 +490,6 @@
         "am.br",
         "am.gov.br",
         "am.leg.br",
-        "anani.br",
         "ap.gov.br",
         "ap.leg.br",
         "aparecida.br",
@@ -781,6 +780,7 @@
     ],
     "ci": [
         "ac.ci",
+        "anani.br",
         "asso.ci",
         "aéroport.ci",
         "co.ci",
@@ -7566,7 +7566,6 @@
         "for.sale"
     ],
     "sb": [
-        "cc.ca.us",
         "com.sb",
         "edu.sb",
         "gov.sb",
@@ -8187,6 +8186,7 @@
         "cc.ar.us",
         "cc.as.us",
         "cc.az.us",
+        "cc.ca.us",
         "cc.co.us",
         "cc.ct.us",
         "cc.dc.us",
@@ -8579,7 +8579,6 @@
     ],
     "zw": [
         "ac.zw",
-        "cc.ca.us",
         "co.zw",
         "gov.zw",
         "mil.zw",
