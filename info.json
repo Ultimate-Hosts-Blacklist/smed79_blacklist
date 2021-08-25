@@ -1,17 +1,17 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2021-08-24T06:41:22.331991",
     "end_epoch": 1629787282.331991,
     "name": "smed79_blacklist",
-    "previous_end_datetime": "2021-08-23T13:30:16.300992",
-    "previous_end_epoch": 1629725416.300992,
-    "previous_start_datetime": "2021-08-23T09:33:21.738945",
-    "previous_start_epoch": 1629711201.738945,
+    "previous_end_datetime": "2021-08-24T06:41:22.331991",
+    "previous_end_epoch": 1629787282.331991,
+    "previous_start_datetime": "2021-08-24T05:37:12.731044",
+    "previous_start_epoch": 1629783432.731044,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt",
-    "start_datetime": "2021-08-24T05:37:12.731044",
-    "start_epoch": 1629783432.731044
+    "start_datetime": "2021-08-25T01:58:15.347673",
+    "start_epoch": 1629856695.347673
 }
