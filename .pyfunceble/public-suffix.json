@@ -281,6 +281,7 @@
     ],
     "ax": [
         "be.ax",
+        "cat.ax",
         "es.ax",
         "eu.ax",
         "gg.ax",
@@ -6794,7 +6795,6 @@
         "org.nr"
     ],
     "nu": [
-        "cat.ax",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
